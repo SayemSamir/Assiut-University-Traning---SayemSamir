@@ -50,6 +50,7 @@ void solution1()
 }
 
 * solution number 2 👇
+
 void solution2()
 {
    string str;
