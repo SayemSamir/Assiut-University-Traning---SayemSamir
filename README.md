@@ -13,8 +13,7 @@ I impleneted more than one solution in some problems .
 i capsulated using functions like this following example:
 
 * solution number 1 👇
-  ```cpp
-  
+```cpp
 void solution1()
 {
    string str, temp;
