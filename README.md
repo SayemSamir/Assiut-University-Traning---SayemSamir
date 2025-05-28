@@ -48,3 +48,24 @@ void solution1()
        }
    }
 }
+
+* solution number 2 👇
+```cpp
+void solution2()
+{
+   string str;
+   bool space = false;
+   while (cin >> str)
+   {
+       reverse(str.begin(), str.end());
+       if (space)
+       {
+           cout << " ";
+       }
+       space = true;
+       cout << str;
+   }
+}
+## my codeforces handle 👇:
+
+
