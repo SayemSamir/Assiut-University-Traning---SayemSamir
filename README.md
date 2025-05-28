@@ -1,5 +1,5 @@
 # Assiut-University-Traning---SayemSamir
-![Alt text for the logo](download.png)
-<h3>[Sheets link](https://codeforces.com/group/MWSDmqGsZm/contests)</h3>
+<img src="download.png" alt="ICPC Assiut Community Logo" width="150" height="150">
+[Sheets link](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 
