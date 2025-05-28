@@ -73,9 +73,9 @@ void solution2()
 ### Connect with me:
 click the icon to contact 👇 :
 
-[<img alt="Twitter" />]([YOUR_TWITTER_PROFILE_URL](https://x.com/SamirSayem80470))
-[<img alt="Facebook" />](https://www.facebook.com/mdsayem197)
-[<img alt="Instagram" />](https://www.instagram.com/mdsayem197)
+[<img alt="Twitter">]([YOUR_TWITTER_PROFILE_URL](https://x.com/SamirSayem80470))
+[<img alt="Facebook">](https://www.facebook.com/mdsayem197)
+[<img alt="Instagram">](https://www.instagram.com/mdsayem197)
 
 
 
