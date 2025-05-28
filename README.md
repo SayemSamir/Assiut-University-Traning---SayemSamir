@@ -68,12 +68,14 @@ void solution2()
 }
 ```
 ## my codeforces handle 👇:
-[sayem197](https://codeforces.com/profile/sayem197)** 
+[sayem197](https://codeforces.com/profile/sayem197)
 
-# Connect with me:
-* click the icon to contact 👆 :
-&lt;img src="icons/facebook_icon.png" alt="Facebook" width="24"/>
-&lt;img src="icons/instagram_icon.png" alt="Instagram" width="24"/>
+### Connect with me:
+click the icon to contact 👇 :
+
+[<img src="icons/twitter_icon.png" alt="Twitter" width="24"/>]([YOUR_TWITTER_PROFILE_URL](https://x.com/SamirSayem80470))
+[<img src="icons/facebook_icon.png" alt="Facebook" width="24"/>](https://www.facebook.com/mdsayem197)
+[<img src="icons/instagram_icon.png" alt="Instagram" width="24"/>](https://www.instagram.com/mdsayem197)
 
 
 
