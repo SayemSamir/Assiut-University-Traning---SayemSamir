@@ -49,9 +49,7 @@ void solution1()
    }
 }
 
-
 * solution number 2 👇
-`cpp`
 void solution2()
 {
    string str;
