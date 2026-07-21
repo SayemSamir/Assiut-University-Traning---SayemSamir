@@ -1,30 +1,3 @@
-<div align="center">
-  <!-- ব্রাউজার উইন্ডো ফ্রেম -->
-  <table border="0" cellspacing="0" cellpadding="0" style="border-radius: 10px; overflow: hidden; border: 1px solid #30363d; background: #161b22; width: 100%;">
-    <tr style="background: #21262d; height: 35px;">
-      <td style="padding-left: 12px; width: 70px;">
-        <span style="color: #ff5f56; font-size: 14px;">●</span>
-        <span style="color: #ffbd2e; font-size: 14px;">●</span>
-        <span style="color: #27c93f; font-size: 14px;">●</span>
-      </td>
-      <td align="center" style="color: #8b949e; font-family: monospace; font-size: 12px;">
-        🔒 https://quran-kareem-web.netlify.app/
-      </td>
-      <td style="width: 70px;"></td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center" style="padding: 0;">
-        <!-- অটো-প্লে GIF লিংক -->
-        <a href="https://quran-kareem-web.netlify.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/your-username/holy-quran-library/main/assets/live-preview.gif" alt="Al-Qur'an Live Preview" width="100%" style="display: block;">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 # Assiut-University-Traning---SayemSamir
 ![Alt text for the logo](download.png)
 ## 👋 **[Sheets link](https://codeforces.com/group/MWSDmqGsZm/contests)** 👋
